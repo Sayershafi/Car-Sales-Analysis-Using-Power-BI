@@ -1,4 +1,4 @@
-# Car Sales Dashboard – Power BI Project
+# <h1 align="center">Car Sales Analysis – Power BI Project</h1>
 
  Interactive Car Sales Dashboard built using Power BI to analyze vehicle pricing, mileage trends, fuel efficiency, and transmission types through data-driven insights.
 
