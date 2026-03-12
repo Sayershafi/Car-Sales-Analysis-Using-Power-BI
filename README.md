@@ -31,11 +31,11 @@ Without a centralized analytical dashboard, analyzing these patterns becomes dif
 
 ### Dashboard Page 1 – Vehicle Overview
 
-![Dashboard Page 1](dashboard_page1.png)
+![Dashboard Page 1](Dashboard%20Page%201.png)
 
 ### Dashboard Page 2 – Vehicle Comparison
 
-![Dashboard Page 2](dashboard_page2.png)
+![Dashboard Page 2](Dashboard%20Page%202.png)
 
 ---
 
